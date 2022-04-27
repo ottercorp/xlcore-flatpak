@@ -68,6 +68,7 @@ finish-args:
   - --device=dri
   - --socket=pulseaudio
   - --talk-name=org.freedesktop.secrets
+  - --system-talk-name=org.freedesktop.UDisks2
   - --device=all
   - --allow=devel
   - --allow=multiarch
