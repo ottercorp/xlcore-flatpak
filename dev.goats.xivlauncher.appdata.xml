@@ -3,11 +3,11 @@
   <id>dev.goats.xivlauncher</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
-  <name>XIVLauncher.Core</name>
-  <summary>Custom Launcher for Final Fantasy XIV Online</summary>
+  <name>XIVLauncher</name>
+  <summary>Launcher & seamless Linux integration for Final Fantasy XIV Online</summary>
   <description>
     <p>
-      This is a description
+      XIVLauncher is a custom launcher for FINAL FANTASY XIV that offers painless patching, a customized WINE version for perfect compatibility with FFXIV, a multitude of useful plugins and seamless Steam Deck integration. Install, log in, patch, and get started!
     </p>
   </description>
   <url type="homepage">https://goatcorp.github.io/</url>
@@ -15,7 +15,7 @@
   <url type="help">https://discord.gg/3NMcUV5</url>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/goatcorp/FFXIVQuickLauncher/master/misc/screenshot.png</image>
+      <image>https://raw.githubusercontent.com/goatcorp/FFXIVQuickLauncher/master/misc/xlcore_screenshot.png</image>
     </screenshot>
   </screenshots>
   <update_contact>xivflatpak@centzilius.de</update_contact>
