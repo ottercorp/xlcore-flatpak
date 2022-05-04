@@ -22,7 +22,6 @@ finish-args:
   - --system-talk-name=org.freedesktop.UDisks2
   - --device=all
   - --allow=devel
-  - --allow=multiarch
 modules:
   - name: libsecret
     buildsystem: meson
