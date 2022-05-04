@@ -73,4 +73,4 @@ modules:
         sha512: 01d0e6c885a357270dabb65878deed2c147841297d8688a543b7605f4704d2507c70f86f825a59a975ff7789a4b74677262947fc97a7a25f23556292266b50ef
       - type: file
         path: dev.goats.xivlauncher.appdata.xml
-      - output.json
+      - nuget-dependencies.json
