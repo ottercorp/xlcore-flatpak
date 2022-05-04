@@ -17,7 +17,6 @@ finish-args:
   - --socket=wayland
   - --share=network
   - --filesystem=home
-  - --device=dri
   - --socket=pulseaudio
   - --talk-name=org.freedesktop.secrets
   - --system-talk-name=org.freedesktop.UDisks2
